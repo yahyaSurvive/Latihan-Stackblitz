@@ -4,3 +4,4 @@ $(document).ready(function () {
   });
 });
 //ini adalah latihan
+//nama yahya ganteng
