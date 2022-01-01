@@ -3,3 +3,4 @@ $(document).ready(function () {
     $('h1').hide();
   });
 });
+//ini adalah latihan
